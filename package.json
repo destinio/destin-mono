@@ -1,0 +1,19 @@
+{
+  "name": "destin",
+  "version": "0.1.0",
+  "description": "JS Components and utils by destin.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/destinio/destin.git"
+  },
+  "author": "Destin Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/destinio/destin/issues"
+  },
+  "homepage": "https://github.com/destinio/destin#readme"
+}
