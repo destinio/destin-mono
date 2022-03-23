@@ -2,10 +2,7 @@
   "name": "destin",
   "version": "0.1.0",
   "description": "JS Components and utils by destin.io",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/destinio/destin.git"
