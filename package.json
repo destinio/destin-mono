@@ -4,12 +4,12 @@
   "description": "JS Components and utils by destin.io",
   "private": true,
   "scripts": {
+    "commit": "cz",
     "test:all": "lerna run test",
-    "new-version": "lerna version --conventional-commits",
-    "publish": "lerna publish --conventional-commits",
+    "build:all": "lerna run build",
+    "publish:all": "lerna run build && lerna publish --conventional-commits",
     "diff": "lerna diff",
-    "build:all": "npm run build --workspaces --if-present",
-    "commit": "cz"
+    "new-version": "lerna version --conventional-commits"
   },
   "repository": {
     "type": "git",
