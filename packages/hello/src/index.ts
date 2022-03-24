@@ -1,3 +1,5 @@
+import { id } from '@destinio/id'
+
 /**
  * hello
  * It says hello
@@ -6,6 +8,7 @@
  */
 function hello() {
   console.log('Hello from destin world!')
+  console.log(id())
 }
 
 /**
