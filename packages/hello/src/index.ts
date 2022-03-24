@@ -16,8 +16,4 @@ function helloWithName(name: string) {
   console.log(`Hello, ${name}. Welcome to destin world.`)
 }
 
-function helloWithNameBeta(name: string) {
-  console.log(`Hello, ${name}. Welcome to destin world.`)
-}
-
-export { hello, helloWithName, helloWithNameBeta }
+export { hello, helloWithName }

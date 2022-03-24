@@ -3,8 +3,4 @@ function id(): string {
   return `${randomNumber}-${Date.now()}`
 }
 
-function idBeta() {
-  return 123
-}
-
-export { id, idBeta }
+export { id }

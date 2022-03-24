@@ -6,6 +6,7 @@
   "scripts": {
     "test:all": "lerna run test",
     "new-version": "lerna version --conventional-commits",
+    "publish": "lerna publish --conventional-commits",
     "diff": "lerna diff",
     "build:all": "npm run build --workspaces --if-present",
     "commit": "cz"
