@@ -4,7 +4,9 @@
   "description": "JS Components and utils by destin.io",
   "private": true,
   "scripts": {
-    "test:all": "npm run test --workspaces --if-present",
+    "test:all": "lerna run test",
+    "new-version": "lerna version",
+    "diff": "lerna diff",
     "build:all": "npm run build --workspaces --if-present"
   },
   "repository": {
@@ -21,6 +23,12 @@
     "packages/*"
   ],
   "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0",
     "lerna": "^4.0.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }

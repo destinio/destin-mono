@@ -5,7 +5,7 @@
  * No nothing. Ever. Again...
  */
 function hello() {
-  console.log('Hello from destin world! :)')
+  console.log('Hello from destin world! :) :)')
 }
 
 /**
