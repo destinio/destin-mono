@@ -3,4 +3,6 @@ function id(): string {
   return `${randomNumber}-${Date.now()}`
 }
 
+console.log(123)
+
 export { id }
