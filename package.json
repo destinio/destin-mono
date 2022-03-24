@@ -3,7 +3,10 @@
   "version": "0.1.0",
   "description": "JS Components and utils by destin.io",
   "private": true,
-  "scripts": {},
+  "scripts": {
+    "test:all": "npm run test --workspaces --if-present",
+    "build:all": "npm run build --workspaces --if-present"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/destinio/destin.git"
