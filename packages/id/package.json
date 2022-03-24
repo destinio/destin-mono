@@ -1,6 +1,6 @@
 {
   "name": "@destinio/id",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A super simple id generator.",
   "main": "dist/index.js",
   "files": [
