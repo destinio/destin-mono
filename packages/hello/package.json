@@ -1,8 +1,11 @@
 {
-  "name": "@destin/hello",
-  "version": "0.1.0",
+  "name": "@destinio/say-hello",
+  "version": "0.2.0",
   "description": "Just saying hello",
   "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "test": "echo \"Hello from hello\"",
     "build": "tsc"

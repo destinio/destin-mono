@@ -1,5 +1,5 @@
 .vscode/
-src/
+src
 .git*
 *.lock
 CODE-OF-CONDUCT.md
