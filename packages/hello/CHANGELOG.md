@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.1.2](https://github.com/destinio/destin/compare/@destinio/say-hello@4.1.1...@destinio/say-hello@4.1.2) (2022-03-24)
+
+
+### Bug Fixes
+
+* something changed ([99f209e](https://github.com/destinio/destin/commit/99f209e06f6655662e2715be3aa474829498c591))
+
+
+
+
+
 ## [4.1.1](https://github.com/destinio/destin/compare/@destinio/say-hello@4.1.0...@destinio/say-hello@4.1.1) (2022-03-24)
 
 **Note:** Version bump only for package @destinio/say-hello
