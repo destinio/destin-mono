@@ -1,6 +1,6 @@
 {
   "name": "@destinio/add",
-  "version": "0.2.0",
+  "version": "5.1.0",
   "description": "add stuff",
   "main": "dist/index.js",
   "files": [

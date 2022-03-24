@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [5.1.0](https://github.com/destinio/destin/compare/v4.0.0...v5.1.0) (2022-03-24)
+
+
+### Features
+
+* add it amazing ([0e55218](https://github.com/destinio/destin/commit/0e5521895ed6febb70bdc3a2ba8089ae4bdcee42))
+
+
+
+
+
 # 0.2.0 (2022-03-24)
 
 
