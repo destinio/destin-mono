@@ -5,9 +5,10 @@
   "private": true,
   "scripts": {
     "test:all": "lerna run test",
-    "new-version": "lerna version",
+    "new-version": "lerna version --conventional-commits --yes",
     "diff": "lerna diff",
-    "build:all": "npm run build --workspaces --if-present"
+    "build:all": "npm run build --workspaces --if-present",
+    "commit": "cz"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,7 @@
     "packages/*"
   ],
   "devDependencies": {
+    "commitizen": "^4.2.4",
     "cz-conventional-changelog": "^3.3.0",
     "lerna": "^4.0.0"
   },
