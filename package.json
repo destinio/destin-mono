@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "test:all": "lerna run test",
-    "new-version": "lerna version --conventional-commits --yes",
+    "new-version": "lerna version --conventional-commits",
     "diff": "lerna diff",
     "build:all": "npm run build --workspaces --if-present",
     "commit": "cz"
