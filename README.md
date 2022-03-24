@@ -6,3 +6,4 @@
 ## Resources
 
 - https://github.com/commitizen/cz-cli
+- https://www.conventionalcommits.org/en/v1.0.0/
