@@ -1,6 +1,6 @@
 {
   "name": "@destinio/say-hello",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Just saying hello",
   "main": "dist/index.js",
   "files": [
