@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [5.2.0](https://github.com/destinio/destin/compare/v5.1.1...v5.2.0) (2022-03-24)
+
+
+### Features
+
+* loggin id from hello ([7807fd2](https://github.com/destinio/destin/commit/7807fd29fd372a7e6654b2ddab256e872e6737bb))
+
+
+
+
+
 ## [5.1.1](https://github.com/destinio/destin/compare/v5.1.0...v5.1.1) (2022-03-24)
 
 
