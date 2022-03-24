@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.2.0 (2022-03-24)
+
+
+### Features
+
+* add it amazing ([0e55218](https://github.com/destinio/destin/commit/0e5521895ed6febb70bdc3a2ba8089ae4bdcee42))
+
+
+
+
+
 ## [4.1.2](https://github.com/destinio/destin/compare/@destinio/say-hello@4.1.1...@destinio/say-hello@4.1.2) (2022-03-24)
 
 
